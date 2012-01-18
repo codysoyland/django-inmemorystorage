@@ -8,7 +8,7 @@ README = read('README.rst')
 
 setup(
     name = "django-inmemorystorage",
-    version = "0.1.0",
+    version = "0.1.1",
     url = 'http://github.com/codysoyland/django-inmemorystorage',
     license = 'BSD',
     description = "A non-persistent in-memory data storage backend for Django.",
